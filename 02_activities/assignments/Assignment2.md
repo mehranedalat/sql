@@ -56,7 +56,10 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 ```
 Your answer...
 ```
-
+Prompt 1: Assignment2-Section1-Prompt1.png image in image folder.
+Prompt 2: Assignment2-Section1-Prompt2.png image in image folder.
+Prompt 3-Type1: Assignment2-Section1-Prompt3-Type1.png image in image folder.
+Prompt 3-Type2: Assignment2-Section1-Prompt3-Type2.png image in image folder.
 ***
 
 ## Section 2:
